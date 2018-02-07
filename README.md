@@ -1,4 +1,4 @@
-# SM2015Q1_Sample Answers ( This paper is for Sri Lanka Institute of Information Technology students )
+# SM2015Q1_Sample Answers_SLIITVERSION
 
 This answer might be not right for you if you are not woring out by yourself. Please find your own way.
 
