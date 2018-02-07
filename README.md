@@ -5,11 +5,13 @@ This answer might be not right for you if you are not woring out by yourself. Pl
 ## Question 1 - SM
 
 Using the Java reflection API, write a method called “searchClasses()” that:
-• Takes two parameters:
-1. A single string representing a class name (the “search” class), and
-2. An array of strings representing a list of class names;
-• Examines each method in each class in the array;
-• Finds and outputs the methods that return the search class OR any superclass
+
+1. Takes two parameters:
+1.1 A single string representing a class name (the “search” class), and
+1.2 An array of strings representing a list of class names;
+
+2. Examines each method in each class in the array;
+3. Finds and outputs the methods that return the search class OR any superclass
 (direct or indirect) of the search class. Output should be in the format “Class-
 Name.methodName”.
 For example, consider the following code:
